@@ -1,5 +1,7 @@
 # hello-world
 I‘m learning how to use github.
 
-I'm trying to add some new information to my new branch.
-How about you?
+I delete something.
+Because i'm tring to do some changes.
+
+
